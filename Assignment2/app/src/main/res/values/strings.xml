@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="texF">Temperature in F</string>
+    <string name="texC">Temperature in C</string>
+    <string name="btnF2C">Convert F to C</string>
+    <string name="btnC2F">Convert C to F</string>
+</resources>
